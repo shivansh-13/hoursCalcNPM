@@ -95,5 +95,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
 ```
-
-You can save this text in a file named `README.md` in your project directory. Let me know if you need any further assistance! 😊
