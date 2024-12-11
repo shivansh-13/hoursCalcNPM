@@ -1,4 +1,3 @@
-```markdown
 # Time Calculator
 
 A simple NPM package to calculate end time based on a start time and duration, or start time based on an end time and duration. This is especially useful for scheduling applications and time management tools.
@@ -50,7 +49,8 @@ console.log(startTime); // '2024-12-11T10:00:00.000Z'
 1. **Meeting Scheduling:** Automatically calculate the end time of a meeting given its start time and duration, or vice versa.
 2. **Task Management:** Determine when you need to start a task to finish by a specific time.
 3. **Event Planning:** Plan events with precise start and end times.
-
+4. **Movie Planning:** Calculate the start time if you know the movie duration and the desired end time, ensuring you finish in time for other activities.
+5. **Scheduling Timers for Electronic Devices:** Set timers on devices like kitchen appliances or garden sprinklers by calculating the required start or end time based on the duration of use.
 ## Handling Different Timezones
 
 ### Example with IST (Indian Standard Time)
@@ -94,4 +94,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-```

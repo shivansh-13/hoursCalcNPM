@@ -1,6 +1,6 @@
 {
   "name": "start-end-time-duration-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to calculate end time or start time based on duration",
   "main": "index.js",
   "scripts": { "test": "node test.js" },
